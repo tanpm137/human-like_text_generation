@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./source/llm_processing",
+        "./source/ai_generated_detection",
+    ]
+}
