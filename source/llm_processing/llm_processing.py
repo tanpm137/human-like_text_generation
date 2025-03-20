@@ -3,7 +3,7 @@ import concurrent.futures
 
 llm_guideline = """
 Generate only the result.
-The response must be less than words—strictly no more, no less.
+The response must be less than 500 words—strictly no more, no less.
 Ensure the output is naturally concise while fully covering the topic.
 """
 
