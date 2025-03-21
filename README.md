@@ -4,5 +4,5 @@ On the other hand, there are still a major number of people who are against usin
 In order to ease this problem, we introduce a simple approach to select the AI-generated contents that might give a result that has lower probability of being detected as AI by current free AI detector tools.
 The main idea of the method is to combine a knowledge base, which is being integrated to a small machine learning model for quick and precise result retrieval, with the various output of the Generative AI to filter out the best candidate.
 # System Experiment Results and Evaluation
-The full experiment results can be found at:
-https://docs.google.com/spreadsheets/d/1A5r7WqUeFz-USjsObOyU_lsaJg84DGStDT535HTOAQA/edit?usp=sharing
+The full experiment results can be found at: [Human-like_text_experiment](https://docs.google.com/spreadsheets/d/1A5r7WqUeFz-USjsObOyU_lsaJg84DGStDT535HTOAQA/edit?usp=sharing)
+
