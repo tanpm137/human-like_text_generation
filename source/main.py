@@ -46,4 +46,4 @@ with st.form("my_form"):
         best_essays = get_best_essay(text, number_of_essays_generated, grod_api_key, top_choosing_essay)
         for essay, prob in best_essays:
             st.info(essay)
-            st.info(f"AI detected probability: {prob}")
+            st.info(f"AI detected probability: {prob * 100:.2f}%")
